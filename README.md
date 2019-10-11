@@ -1,4 +1,4 @@
-# Como desenvolver aplicações serverless em Java para Amazon Web Services 
+# How to develop Java applications for Amazon Web Services 
 
 This source code repository is related to this [book](http://leanpub.com/amazonwebservice_en) on how to develop serverless **Java** applications using [AWS Lambda](https://aws.amazon.com/lambda/), as well as **Java** applications using **Spring Boot** to run on **Amazon Web Services** using **Docker** container and [AWS ECS](https://aws.amazon.com/ecs/).
 
