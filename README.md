@@ -2,6 +2,8 @@
 
 This source code repository is related to this [book](http://leanpub.com/amazonwebservice_en) on how to develop serverless **Java** applications using [AWS Lambda](https://aws.amazon.com/lambda/), as well as **Java** applications using **Spring Boot** to run on **Amazon Web Services** using **Docker** container and [AWS ECS](https://aws.amazon.com/ecs/).
 
+> Para ler essa página em Português, clique [aqui](https://github.com/siecola/aws_lambda02/blob/master/README.pt-br.md).
+
 This will be a simple example of a serverless application using functions with [AWS Lambda](https://aws.amazon.com/lambda/), demonstrating how to execute it through an event published in an **SNS**.
 
 To learn these and other application development concepts using Amazon Web Services, be sure to check out this [book](http://leanpub.com/amazonwebservice_en)!
